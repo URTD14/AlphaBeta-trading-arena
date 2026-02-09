@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+google-generativeai
+beautifulsoup4
+requests
+python-dotenv
+feedparser
